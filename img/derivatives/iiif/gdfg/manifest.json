@@ -1,0 +1,72 @@
+---
+added: 2023-11-13 15&#58;23&#58;24.150972
+thumbnail: https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/117CA16A00000000/full/192,/0/default.jpg
+title: gdfg
+user: onb1310
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "gdfg"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/canvas/gdfg-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "117CA16A_00000000"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/117CA16A00000000/full/192,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 6028,
+      "width": 3076,
+      "items": [
+        {
+          "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/117CA16A00000000/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6028,
+                "width": 3076,
+                "service": [
+                  {
+                    "id": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/117CA16A00000000",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://onb1310.github.io/annonatate/img/derivatives/iiif/gdfg/canvas/gdfg-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
